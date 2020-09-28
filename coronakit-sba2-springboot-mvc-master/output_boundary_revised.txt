@@ -1,0 +1,4 @@
+
+testProductCostBoundary=true
+testProductDescriptionBoundary=true
+testProductNameBoundary=true
